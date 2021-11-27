@@ -6,14 +6,14 @@
 Download the data from [kaggle](https://www.kaggle.com/mfaisalqureshi/banglore-house-price-prediction/data)
 
 ## Techincal Aspect
-* Data Cleaning and Preprocessing
+* Data Cleaning and Preprocessing(Python.Numpy,Pandas)
 * Feature Engineering 
-* Training the model
+* Training the model(Scikit-learn)
 
   Simple Regressin Models- Linear Regresssion, Lasso Regression, Decision Tree Regressor
   
   Complex Models - Catboost Regressor, LightGBM Regressor
- * Model Deployement - Flask
+ * Model Deployement (Flask)
 
 
 ### Inspiration - [CodeBasics](https://youtu.be/rdfbcdP75KI)
