@@ -12,7 +12,7 @@ Download the data from [kaggle](https://www.kaggle.com/mfaisalqureshi/banglore-h
 
   Simple Regressin Models- Linear Regresssion, Lasso Regression, Decision Tree Regressor
   
-  Complex Modles - Catboost Regressor, LightGBM Regressor
+  Complex Models - Catboost Regressor, LightGBM Regressor
  * Model Deployement - Flask
 
 
